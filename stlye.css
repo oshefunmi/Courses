@@ -1,0 +1,32 @@
+body{
+    background-image: none;
+    background-image:url(openb.jpeg) ;
+    background-image: linear-gradient();
+    background-position: center;
+    background-color: rgb(77, 179, 226);
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+header{
+    background-image: linear-gradient(rgba(65, 131, 175, 0.5),rgba(6, 58, 117, 0.75));
+    padding: 10px ;
+    border: rgb(69, 66, 231) solid;
+    position: sticky;
+    word-spacing: 10px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+#class{
+    padding: 50px;
+    color: #03023d;
+}
+
+
+footer{
+    padding: 80px;
+}
+
